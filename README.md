@@ -2,10 +2,12 @@
 
 <!--
 **johforn/johforn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <a href="https://linkedin.com/in/johanna.fornberg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="johanna.fornberg" height="30" width="40" /></a>
+
 -->
 
 - 🌎 I’m currently working on climate and the right to protest at Greenpeace USA
-
 - 🌱 Ask me about me about my past work in community ecology, species distribution models, parasites, or compartmental transmission models 
 - 😄 Pronouns: she/her
 - 🍲 If I'm not here, I'm in the kitchen or walking around outside
