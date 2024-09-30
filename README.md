@@ -14,5 +14,8 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
+
 <a href="https://linkedin.com/in/johanna.fornberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johanna.fornberg" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Johanna-Fornberg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" alt="Johanna-Fornberg" height="30" width="30" /></a>
+  
 </p>
