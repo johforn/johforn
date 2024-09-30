@@ -4,7 +4,8 @@
 **johforn/johforn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌎 I’m currently working on climate and the right to protest
+- 🌎 I’m currently working on climate and the right to protest at Greenpeace USA
+
 - 🌱 Ask me about me about my past work in community ecology, species distribution models, parasites, or compartmental transmission models 
 - 😄 Pronouns: she/her
 - 🍲 If I'm not here, I'm in the kitchen or walking around outside
